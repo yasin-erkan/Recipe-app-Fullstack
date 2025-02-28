@@ -2,7 +2,10 @@ Recipe Web App
 
 A full-stack recipe web app built with React for the frontend and Express.js for the backend, designed to provide users with an intuitive platform for discovering, sharing, and managing recipes.
 
-Preview:!(https://example.com/africa.gif)
+Preview:
+![recipe-app](https://github.com/user-attachments/assets/48f284a6-5a4d-4d1d-9c95-8e1b000da0c7)
+
+
 
 Features
 
